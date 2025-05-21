@@ -25,7 +25,6 @@
 ###  Проекты:
 | Название | Инструменты |
 | :--------: | :-------: |
-
 |[SQL Retention rate](https://github.com/DinkyPinky/Data-Science/tree/main/SQL/Retention-rate) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
 |[Классификация токсичных комментариев](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/comments-classification) |<img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy&logoColor=orange"/><img src="https://img.shields.io/badge/TQDM-black?style=flat-square&logo=tqdm&logoColor=orange"/>|
 |[Оценка популярности игр](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/games-rating-analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=orange"/>||
