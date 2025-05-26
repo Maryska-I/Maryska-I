@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-%2300768B.svg?style=for-the-badge&logo=python&logoColor=white" title="Matplotlib" alt="Matplotlib"/>&nbsp;
   <img src="https://img.shields.io/badge/Seaborn-%232C3E50.svg?style=for-the-badge&logo=python&logoColor=white" title="Seaborn" alt="Seaborn"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
 ###  Проекты:
